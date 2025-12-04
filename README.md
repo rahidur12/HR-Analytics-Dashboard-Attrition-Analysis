@@ -1,4 +1,5 @@
-#HR Analytics Dashboard & Attrition Analysis
+HR Analytics Dashboard & Attrition Analysis
+
 An interactive Power BI dashboard that provides actionable insights into employee performance, job satisfaction, workforce demographics, and critical attrition drivers across various departments, job roles, and tenure groups.
 
 📌 Drive Link: https://drive.google.com/drive/folders/1CzEuAQC2NblaoHwVSJI30R6Mu4wG5Gl4?usp=sharing
